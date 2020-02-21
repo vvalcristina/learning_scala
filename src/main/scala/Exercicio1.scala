@@ -1,4 +1,4 @@
-object Main {
+object Exercicio1 {
   //def : declaração de função -> def nome(parâmetros)=> retorno
   //não precisa utilizar return
   //Unit -> função não retorna nada
