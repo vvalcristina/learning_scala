@@ -6,7 +6,6 @@ object Main {
   def Calc(callback: (Int, Int) => Int, x:Int, y:Int): Unit ={
     println(callback(x,y))
   }
-  def contaUmDez(f:)
 
   def soma (x: Int, y: Int): Int={
     x + y
